@@ -2,4 +2,7 @@
     <string name="app_name">BasicBusinessCard</string>
     <string name="name_text">Pedro Romero Suárez</string>
     <string name="title_text">Computer Engineering Student</string>
+    <string name="phone_number_text">+34 677 77 66 55</string>
+    <string name="twitter_account_text">\@PedroRS9</string>
+    <string name="email_text">pedro.romero105@alu.ulpgc.es</string>
 </resources>
